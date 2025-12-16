@@ -4,6 +4,8 @@ genaivenv/
 env/
 .venv/
 .pyenv/
+genainew/
+.genainew/
 
 # Byte-compiled / cache
 __pycache__/
